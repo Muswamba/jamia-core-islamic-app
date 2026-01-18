@@ -1,0 +1,42 @@
+# Claude temp folders
+tmpclaude-*-cwd/
+mobile/tmpclaude-*-cwd/
+backend/tmpclaude-*-cwd/
+
+# Node / Expo / React Native
+node_modules/
+mobile/node_modules/
+.next/
+dist/
+out/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Flutter (if added later)
+build/
+.dart_tool/
+
+# Backend
+vendor/
+.env
+.env.*
+storage/*.key
+bootstrap/cache/
+
+# Docker
+*.log
+docker-data/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Misc
+*.swp
+
+
+# AI / tooling
+.claude/

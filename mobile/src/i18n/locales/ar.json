@@ -1,0 +1,197 @@
+{
+  "app": {
+    "name": "الأذان ومواقيت الصلاة"
+  },
+  "common": {
+    "close": "إغلاق",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "done": "تم",
+    "loading": "جارٍ التحميل...",
+    "error": "خطأ",
+    "timeout": "انتهت مهلة الطلب. الرجاء المحاولة مرة أخرى.",
+    "success": "نجاح",
+    "back": "رجوع",
+    "retry": "إعادة المحاولة",
+    "search": "بحث",
+    "settings": "الإعدادات"
+  },
+  "tabs": {
+    "home": "الرئيسية",
+    "quran": "القرآن",
+    "learn": "تعلم",
+    "qibla": "القبلة",
+    "settings": "الإعدادات"
+  },
+  "prayers": {
+    "fajr": "الفجر",
+    "sunrise": "الشروق",
+    "dhuhr": "الظهر",
+    "asr": "العصر",
+    "maghrib": "المغرب",
+    "isha": "العشاء",
+    "nextPrayer": "الصلاة القادمة",
+    "timeUntil": "الوقت المتبقي",
+    "prayerTimes": "مواقيت الصلاة",
+    "today": "اليوم",
+    "noPrayersToday": "لا توجد صلوات مجدولة"
+  },
+  "location": {
+    "location": "الموقع",
+    "detectLocation": "تحديد الموقع",
+    "manualLocation": "إدخال الموقع يدويًا",
+    "enterCity": "أدخل اسم المدينة",
+    "locationPermissionDenied": "تم رفض إذن الموقع. يرجى إدخال المدينة يدويًا.",
+    "locationError": "تعذر تحديد الموقع. يرجى المحاولة مرة أخرى أو الإدخال يدويًا.",
+    "detecting": "جارٍ تحديد الموقع..."
+  },
+  "adhan": {
+    "adhanSettings": "إعدادات الأذان",
+    "enableNotifications": "تفعيل الإشعارات",
+    "notificationsEnabled": "الإشعارات مفعّلة",
+    "notificationsDisabled": "الإشعارات معطّلة",
+    "selectSound": "اختيار الصوت",
+    "silent": "صامت",
+    "vibrate": "اهتزاز",
+    "prayerNotifications": "إشعارات الصلاة",
+    "notificationsBefore": "إشعار قبل الصلاة",
+    "minutes": "دقائق"
+  },
+  "prayerSettings": {
+    "calculationMethod": "طريقة الحساب",
+    "asrMethod": "طريقة حساب العصر",
+    "highLatitude": "قاعدة خطوط العرض العالية",
+    "manualAdjustments": "تعديلات يدوية",
+    "methods": {
+      "MWL": "رابطة العالم الإسلامي",
+      "ISNA": "الجمعية الإسلامية لأمريكا الشمالية",
+      "Egypt": "الهيئة المصرية العامة",
+      "Makkah": "جامعة أم القرى، مكة",
+      "Karachi": "جامعة العلوم الإسلامية، كراتشي"
+    },
+    "asrMethods": {
+      "Standard": "شافعي، مالكي، حنبلي",
+      "Hanafi": "حنفي"
+    },
+    "highLatRules": {
+      "NightMiddle": "منتصف الليل",
+      "AngleBased": "حسب الزاوية",
+      "OneSeventh": "جزء من سبعة من الليل"
+    }
+  },
+  "quran": {
+    "quran": "القرآن",
+    "surah": "السورة",
+    "ayah": "الآية",
+    "juz": "الجزء",
+    "page": "الصفحة",
+    "translation": "الترجمة",
+    "selectTranslation": "اختر الترجمة",
+    "bookmarks": "العلامات",
+    "lastRead": "آخر قراءة",
+    "continueReading": "متابعة القراءة",
+    "noBookmarks": "لا توجد علامات بعد",
+    "addBookmark": "إضافة علامة",
+    "removeBookmark": "إزالة العلامة",
+    "searchQuran": "ابحث في القرآن",
+    "searchResults": "نتائج البحث",
+    "noResults": "لا توجد نتائج"
+  },
+  "learn": {
+    "learn": "تعلم",
+    "lessons": "الدروس",
+    "categories": "الفئات",
+    "progress": "التقدم",
+    "completed": "مكتمل",
+    "quiz": "اختبار",
+    "startQuiz": "ابدأ الاختبار",
+    "nextQuestion": "السؤال التالي",
+    "submitAnswer": "إرسال الإجابة",
+    "yourScore": "درجتك",
+    "correct": "صحيح",
+    "incorrect": "غير صحيح",
+    "tryAgain": "حاول مرة أخرى"
+  },
+  "qibla": {
+    "qibla": "اتجاه القبلة",
+    "direction": "الاتجاه",
+    "calibration": "المعايرة",
+    "calibrationHelp": "حرّك جهازك على شكل رقم 8 لمعايرة البوصلة.",
+    "bearing": "الاتجاه إلى مكة",
+    "aligned": "محاذاة مع القبلة",
+    "degrees": "درجة",
+    "compassUnavailable": "مستشعر البوصلة غير متوفر على هذا الجهاز."
+  },
+  "settings": {
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "selectLanguage": "اختر اللغة",
+    "prayerSettings": "إعدادات الصلاة",
+    "adhanSettings": "إعدادات الأذان",
+    "theme": "السمة",
+    "about": "حول",
+    "creditsAndSources": "الشكر والمصادر",
+    "aiHelper": "مساعد الذكاء الاصطناعي",
+    "notifications": "الإشعارات",
+    "appearance": "المظهر",
+    "themeSystem": "النظام",
+    "themeLight": "فاتح",
+    "themeDark": "داكن",
+    "fontSize": "حجم الخط",
+    "fontSizeSystem": "النظام",
+    "fontSizeSmall": "صغير",
+    "fontSizeMedium": "متوسط",
+    "fontSizeLarge": "كبير",
+    "prayerCalculation": "حساب الصلاة",
+    "calculationMethod": "طريقة الحساب",
+    "asrMethod": "طريقة العصر",
+    "highLatitudeRule": "قاعدة خطوط العرض العالية",
+    "timeAdjustments": "تعديلات الوقت",
+    "enableNotifications": "تفعيل الإشعارات",
+    "prayerNotifications": "إشعارات الصلاة",
+    "notificationSound": "صوت الإشعار",
+    "adhanFull": "أذان كامل",
+    "adhanShort": "أذان قصير",
+    "beep": "تنبيه",
+    "silent": "صامت",
+    "testSound": "اختبار الصوت",
+    "enableForPrayers": "تفعيل للصلوات",
+    "notificationsScheduled": "تمت جدولة الإشعارات لليوم",
+    "notificationsDisabled": "الإشعارات معطلة",
+    "credits": "الشكر والمصادر",
+    "disclaimer": "تنبيه"
+  },
+  "languageNames": {
+    "en": "الإنجليزية",
+    "fr": "الفرنسية",
+    "sw": "السواحيلية",
+    "ar": "العربية"
+  },
+  "credits": {
+    "title": "الشكر والمصادر",
+    "quranText": "نص القرآن",
+    "quranSource": "نص عربي من Tanzil.net",
+    "translations": "الترجمات",
+    "translationSources": "مصادر الترجمة مذكورة في كل اختيار للترجمة.",
+    "prayerTimes": "حساب مواقيت الصلاة",
+    "prayerTimesSource": "يعتمد على طرق الحساب الإسلامية المعتمدة",
+    "disclaimer": "تنبيه",
+    "disclaimerText": "هذا التطبيق أداة للمسلمين. يرجى التحقق من مواقيت الصلاة مع المسجد المحلي. ميزة الذكاء الاصطناعي للأغراض التعليمية فقط ولا ينبغي استخدامها للأحكام الشرعية (الفتاوى). استشر العلماء المؤهلين دائماً."
+  },
+  "ai": {
+    "aiHelper": "مساعد الذكاء الاصطناعي",
+    "chat": "محادثة",
+    "explainAyah": "شرح الآية",
+    "disclaimer": "ردود الذكاء الاصطناعي لأغراض تعليمية فقط. ليست للأحكام الشرعية (الفتاوى). استشر علماء مؤهلين.",
+    "askQuestion": "اطرح سؤالاً...",
+    "send": "إرسال",
+    "rateLimitExceeded": "تم تجاوز الحد. يرجى المحاولة لاحقاً.",
+    "error": "حدث خطأ. يرجى المحاولة مرة أخرى.",
+    "enterMessage": "يرجى إدخال رسالة",
+    "selectAyah": "اختر آية لشرحها",
+    "explainThis": "اشرح هذه الآية",
+    "explanation": "الشرح"
+  }
+}
+
+

@@ -1,0 +1,156 @@
+{
+  "common": {
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "done": "Done",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "retry": "Retry",
+    "search": "Search",
+    "settings": "Settings"
+  },
+  "tabs": {
+    "home": "Home",
+    "quran": "Quran",
+    "learn": "Learn",
+    "qibla": "Qibla",
+    "settings": "Settings"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Sunrise",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "nextPrayer": "Next Prayer",
+    "timeUntil": "Time Until",
+    "prayerTimes": "Prayer Times",
+    "today": "Today",
+    "noPrayersToday": "No prayers scheduled"
+  },
+  "location": {
+    "location": "Location",
+    "detectLocation": "Detect Location",
+    "manualLocation": "Manual Location",
+    "enterCity": "Enter City Name",
+    "locationPermissionDenied": "Location permission denied. Please enter your city manually.",
+    "locationError": "Unable to detect location. Please try again or enter manually.",
+    "detecting": "Detecting location..."
+  },
+  "adhan": {
+    "adhanSettings": "Adhan Settings",
+    "enableNotifications": "Enable Notifications",
+    "notificationsEnabled": "Notifications Enabled",
+    "notificationsDisabled": "Notifications Disabled",
+    "selectSound": "Select Sound",
+    "silent": "Silent",
+    "vibrate": "Vibrate",
+    "prayerNotifications": "Prayer Notifications",
+    "notificationsBefore": "Notify Before Prayer",
+    "minutes": "minutes"
+  },
+  "prayerSettings": {
+    "calculationMethod": "Calculation Method",
+    "asrMethod": "Asr Calculation",
+    "highLatitude": "High Latitude Rule",
+    "manualAdjustments": "Manual Adjustments",
+    "methods": {
+      "MWL": "Muslim World League",
+      "ISNA": "Islamic Society of North America",
+      "Egypt": "Egyptian General Authority",
+      "Makkah": "Umm al-Qura University, Makkah",
+      "Karachi": "University of Islamic Sciences, Karachi"
+    },
+    "asrMethods": {
+      "Standard": "Shafi, Maliki, Hanbali",
+      "Hanafi": "Hanafi"
+    },
+    "highLatRules": {
+      "NightMiddle": "Middle of the Night",
+      "AngleBased": "Angle-Based",
+      "OneSeventh": "One-Seventh of Night"
+    }
+  },
+  "quran": {
+    "quran": "Quran",
+    "surah": "Surah",
+    "ayah": "Ayah",
+    "juz": "Juz",
+    "page": "Page",
+    "translation": "Translation",
+    "selectTranslation": "Select Translation",
+    "bookmarks": "Bookmarks",
+    "lastRead": "Last Read",
+    "continueReading": "Continue Reading",
+    "noBookmarks": "No bookmarks yet",
+    "addBookmark": "Add Bookmark",
+    "removeBookmark": "Remove Bookmark",
+    "searchQuran": "Search Quran",
+    "searchResults": "Search Results",
+    "noResults": "No results found"
+  },
+  "learn": {
+    "learn": "Learn",
+    "lessons": "Lessons",
+    "categories": "Categories",
+    "progress": "Progress",
+    "completed": "Completed",
+    "quiz": "Quiz",
+    "startQuiz": "Start Quiz",
+    "nextQuestion": "Next Question",
+    "submitAnswer": "Submit Answer",
+    "yourScore": "Your Score",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "tryAgain": "Try Again"
+  },
+  "qibla": {
+    "qibla": "Qibla Direction",
+    "direction": "Direction",
+    "calibration": "Calibration",
+    "calibrationHelp": "Move your device in a figure-8 pattern to calibrate the compass.",
+    "bearing": "Bearing to Makkah",
+    "degrees": "degrees",
+    "compassUnavailable": "Compass sensor is unavailable on this device."
+  },
+  "settings": {
+    "settings": "Settings",
+    "language": "Language",
+    "selectLanguage": "Select Language",
+    "prayerSettings": "Prayer Settings",
+    "adhanSettings": "Adhan Settings",
+    "theme": "Theme",
+    "about": "About",
+    "creditsAndSources": "Credits & Sources",
+    "aiHelper": "AI Helper",
+    "notifications": "Notifications"
+  },
+  "credits": {
+    "title": "Credits & Sources",
+    "quranText": "Quran Text",
+    "quranSource": "Arabic text from Tanzil.net",
+    "translations": "Translations",
+    "translationSources": "Translation sources are listed in each translation selection.",
+    "prayerTimes": "Prayer Times Calculation",
+    "prayerTimesSource": "Based on established Islamic calculation methods",
+    "disclaimer": "Disclaimer",
+    "disclaimerText": "This app is provided as a tool for Muslims. Please verify prayer times with your local mosque. The AI feature is for educational purposes only and should not be used for religious rulings (fatwas). Always consult qualified scholars for religious guidance."
+  },
+  "ai": {
+    "aiHelper": "AI Helper",
+    "chat": "Chat",
+    "explainAyah": "Explain Ayah",
+    "disclaimer": "AI responses are for educational purposes only. Not for religious rulings (fatwas). Consult qualified scholars.",
+    "askQuestion": "Ask a question...",
+    "send": "Send",
+    "rateLimitExceeded": "Rate limit exceeded. Please try again later.",
+    "error": "An error occurred. Please try again.",
+    "enterMessage": "Please enter a message",
+    "selectAyah": "Select an ayah to explain",
+    "explainThis": "Explain This Ayah",
+    "explanation": "Explanation"
+  }
+}

@@ -1,0 +1,62 @@
+module.exports = {
+  expo: {
+    name: "Adhan & Prayer Times",
+    slug: "adhan-prayer-app",
+    version: "1.0.0",
+    orientation: "portrait",
+    icon: "./assets/icon.png",
+    userInterfaceStyle: "automatic",
+    splash: {
+      image: "./assets/splash.png",
+      resizeMode: "contain",
+      backgroundColor: "#ffffff"
+    },
+    assetBundlePatterns: [
+      "**/*"
+    ],
+    ios: {
+      supportsTablet: true,
+      bundleIdentifier: "com.adhanapp.prayer",
+      infoPlist: {
+        UIBackgroundModes: ["location", "fetch"],
+        NSLocationWhenInUseUsageDescription: "We need your location to calculate accurate prayer times for your area.",
+        NSLocationAlwaysUsageDescription: "We need your location to calculate accurate prayer times for your area."
+      }
+    },
+    android: {
+      adaptiveIcon: {
+        foregroundImage: "./assets/adaptive-icon.png",
+        backgroundColor: "#ffffff"
+      },
+      package: "com.adhanapp.prayer",
+      permissions: [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "NOTIFICATIONS",
+        "VIBRATE",
+        "WAKE_LOCK"
+      ]
+    },
+    web: {
+      favicon: "./assets/favicon.png"
+    },
+    plugins: [
+      "expo-router",
+      "expo-localization",
+      [
+        "expo-notifications",
+        {
+          icon: "./assets/notification-icon.png",
+          color: "#ffffff"
+        }
+      ]
+    ],
+    scheme: "adhanapp",
+    extra: {
+      router: {
+        origin: false
+      },
+      apiBaseUrl: process.env.EXPO_PUBLIC_API_BASE_URL || "http://192.168.1.6:8002"
+    }
+  }
+};

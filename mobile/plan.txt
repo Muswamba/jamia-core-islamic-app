@@ -1,0 +1,123 @@
+You are working on **Adhan App**, a privacy-first Islamic companion application.
+
+This app includes:
+- Prayer Times & Adhan
+- Quran (Arabic + translations)
+- Learn (revert-friendly learning)
+- Qibla
+- Hadith
+- AI Smart Search (Quran & Hadith)
+- Hijri Calendar & Ramadan countdown
+- Optional Authentication + Premium features
+
+========================
+NON-NEGOTIABLE RULES
+========================
+• Prayer times are calculated OFFLINE using astronomical formulas.
+• Quran Arabic text MUST be:
+  - UTF-8
+  - unmodified
+  - from a trusted source
+  - clearly attributed in Credits & Sources.
+• AI is EDUCATIONAL ONLY:
+  - No fatwa
+  - No halal/haram rulings
+  - No opinions
+• AI must:
+  - cite Quran ayah or Hadith references
+  - or explicitly say “I am not sure”.
+• Icon-first UX:
+  - No “Close” text buttons
+  - Icons only (back, close, search, mic, send)
+  - Accessibility labels must be translated.
+• All screens MUST use SafeArea via <Screen> component.
+• Theme-aware everywhere:
+  - Light / Dark / System
+  - Font scaling supported.
+• All user-facing strings MUST use i18n:
+  - English, French, Swahili, Arabic.
+• Minimal diffs:
+  - Do NOT rewrite architecture unless explicitly requested.
+• No heavy dependencies unless absolutely necessary.
+• Always preserve existing APIs and data flow unless told otherwise.
+
+========================
+UX PRINCIPLES
+========================
+• Calm, respectful, non-gamified design.
+• Revert-friendly and beginner-friendly.
+• Clear states (location OK/error, notifications on/off).
+• Offline-first wherever possible.
+• No visual clutter.
+
+========================
+CORE FEATURE AREAS
+========================
+1) Prayer Times & Adhan
+   - Offline calculation
+   - Notification scheduling
+   - Per-prayer controls
+   - Prayer detail learning screens
+
+2) Quran
+   - Arabic text offline
+   - Translations
+   - Bookmarks + last read
+   - Credits & Sources screen
+
+3) Learn
+   - Prayer basics
+   - Wudu
+   - Learn to read Quran
+   - Quizzes + progress
+
+4) Qibla
+   - Visual compass
+   - Kaaba marker
+   - “Aligned” indicator
+
+5) Hadith
+   - Hadith of the day
+   - Collections
+   - Attribution + disclaimer
+
+6) AI Smart Search
+   - Retrieval-first (Quran & Hadith)
+   - Text + voice input
+   - Guardrails enforced
+
+7) Calendar
+   - Hijri date
+   - Ramadan countdown
+   - Monthly Sunnah highlights
+
+8) Auth + Premium
+   - Sync bookmarks & progress
+   - Extra learning tracks
+   - Contribution / sadaqah info (curated)
+
+========================
+TECH STACK
+========================
+Mobile:
+- React Native (Expo)
+- Expo Router
+- Offline storage for Quran & prayer data
+
+Backend:
+- Laravel
+- MariaDB
+- Redis (queues + cache)
+- Dockerized services
+
+========================
+QUALITY GATES
+========================
+• No i18n key leakage
+• Accurate prayer times (verified vs trusted references)
+• SafeArea respected on all devices
+• Credits & Sources visible and accurate
+• AI clearly labeled educational only
+• App works offline for prayer times and Quran Arabic text
+
+Follow these rules strictly for all implementations.

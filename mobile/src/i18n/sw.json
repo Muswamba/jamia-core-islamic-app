@@ -1,0 +1,156 @@
+{
+  "common": {
+    "close": "Funga",
+    "save": "Hifadhi",
+    "cancel": "Ghairi",
+    "done": "Imekamilika",
+    "loading": "Inapakia...",
+    "error": "Kosa",
+    "success": "Imefanikiwa",
+    "retry": "Jaribu Tena",
+    "search": "Tafuta",
+    "settings": "Mipangilio"
+  },
+  "tabs": {
+    "home": "Nyumbani",
+    "quran": "Qurani",
+    "learn": "Jifunze",
+    "qibla": "Qibla",
+    "settings": "Mipangilio"
+  },
+  "prayers": {
+    "fajr": "Alfajiri",
+    "sunrise": "Kucha Jua",
+    "dhuhr": "Adhuhuri",
+    "asr": "Alasiri",
+    "maghrib": "Magharibi",
+    "isha": "Isha",
+    "nextPrayer": "Sala Inayofuata",
+    "timeUntil": "Muda Uliobaki",
+    "prayerTimes": "Majira ya Sala",
+    "today": "Leo",
+    "noPrayersToday": "Hakuna sala zilizopangwa"
+  },
+  "location": {
+    "location": "Mahali",
+    "detectLocation": "Tambua Mahali",
+    "manualLocation": "Mahali kwa Mkono",
+    "enterCity": "Ingiza Jina la Jiji",
+    "locationPermissionDenied": "Ruhusa ya mahali imekataliwa. Tafadhali ingiza jiji lako kwa mkono.",
+    "locationError": "Haiwezi kutambua mahali. Tafadhali jaribu tena au ingiza kwa mkono.",
+    "detecting": "Inatambua mahali..."
+  },
+  "adhan": {
+    "adhanSettings": "Mipangilio ya Adhani",
+    "enableNotifications": "Washa Arifa",
+    "notificationsEnabled": "Arifa Zimewashwa",
+    "notificationsDisabled": "Arifa Zimezimwa",
+    "selectSound": "Chagua Sauti",
+    "silent": "Kimya",
+    "vibrate": "Tetemeka",
+    "prayerNotifications": "Arifa za Sala",
+    "notificationsBefore": "Arifa Kabla ya Sala",
+    "minutes": "dakika"
+  },
+  "prayerSettings": {
+    "calculationMethod": "Njia ya Kukokotoa",
+    "asrMethod": "Kukokotoa kwa Alasiri",
+    "highLatitude": "Kanuni ya Latitudo ya Juu",
+    "manualAdjustments": "Marekebisho ya Mkono",
+    "methods": {
+      "MWL": "Ligi ya Kiislamu Duniani",
+      "ISNA": "Jamii ya Kiislamu ya Amerika Kaskazini",
+      "Egypt": "Mamlaka Kuu ya Misri",
+      "Makkah": "Chuo Kikuu cha Umm al-Qura, Makka",
+      "Karachi": "Chuo Kikuu cha Sayansi za Kiislamu, Karachi"
+    },
+    "asrMethods": {
+      "Standard": "Shafi, Maliki, Hanbali",
+      "Hanafi": "Hanafi"
+    },
+    "highLatRules": {
+      "NightMiddle": "Katikati ya Usiku",
+      "AngleBased": "Kulingana na Pembe",
+      "OneSeventh": "Sehemu ya Saba ya Usiku"
+    }
+  },
+  "quran": {
+    "quran": "Qurani",
+    "surah": "Sura",
+    "ayah": "Aya",
+    "juz": "Juzuu",
+    "page": "Ukurasa",
+    "translation": "Tafsiri",
+    "selectTranslation": "Chagua Tafsiri",
+    "bookmarks": "Alamisho",
+    "lastRead": "Mwisho Kusoma",
+    "continueReading": "Endelea Kusoma",
+    "noBookmarks": "Hakuna alamisho bado",
+    "addBookmark": "Ongeza Alamisho",
+    "removeBookmark": "Ondoa Alamisho",
+    "searchQuran": "Tafuta Qurani",
+    "searchResults": "Matokeo ya Utafutaji",
+    "noResults": "Hakuna matokeo yaliyopatikana"
+  },
+  "learn": {
+    "learn": "Jifunze",
+    "lessons": "Masomo",
+    "categories": "Kategoria",
+    "progress": "Maendeleo",
+    "completed": "Imekamilika",
+    "quiz": "Jaribio",
+    "startQuiz": "Anza Jaribio",
+    "nextQuestion": "Swali Linalofuata",
+    "submitAnswer": "Wasilisha Jibu",
+    "yourScore": "Alama Yako",
+    "correct": "Sahihi",
+    "incorrect": "Sio Sahihi",
+    "tryAgain": "Jaribu Tena"
+  },
+  "qibla": {
+    "qibla": "Mwelekeo wa Qibla",
+    "direction": "Mwelekeo",
+    "calibration": "Urekebishaji",
+    "calibrationHelp": "Sogeza kifaa chako kwa umbo la namba 8 ili kurekebisha dira.",
+    "bearing": "Mwelekeo kwa Makka",
+    "degrees": "digrii",
+    "compassUnavailable": "Sensor ya dira haipatikani kwenye kifaa hiki."
+  },
+  "settings": {
+    "settings": "Mipangilio",
+    "language": "Lugha",
+    "selectLanguage": "Chagua Lugha",
+    "prayerSettings": "Mipangilio ya Sala",
+    "adhanSettings": "Mipangilio ya Adhani",
+    "theme": "Mandhari",
+    "about": "Kuhusu",
+    "creditsAndSources": "Mikopo na Vyanzo",
+    "aiHelper": "Msaidizi wa AI",
+    "notifications": "Arifa"
+  },
+  "credits": {
+    "title": "Mikopo na Vyanzo",
+    "quranText": "Maandishi ya Qurani",
+    "quranSource": "Maandishi ya Kiarabu kutoka Tanzil.net",
+    "translations": "Tafsiri",
+    "translationSources": "Vyanzo vya tafsiri vimeorodheshwa kwenye kila uchaguzi wa tafsiri.",
+    "prayerTimes": "Kukokotoa Majira ya Sala",
+    "prayerTimesSource": "Kulingana na njia za kikokotoaji za Kiislamu zilizowekwa",
+    "disclaimer": "Onyo",
+    "disclaimerText": "Programu hii imetolewa kama zana kwa Waislamu. Tafadhali thibitisha majira ya sala na msikiti wako wa karibu. Kipengele cha AI ni kwa madhumuni ya elimu tu na haipaswi kutumika kwa maamuzi ya kidini (fatwa). Daima wasiliana na wanazuoni wenye sifa kwa mwongozo wa kidini."
+  },
+  "ai": {
+    "aiHelper": "Msaidizi wa AI",
+    "chat": "Mazungumzo",
+    "explainAyah": "Eleza Aya",
+    "disclaimer": "Majibu ya AI ni kwa madhumuni ya elimu tu. Si kwa maamuzi ya kidini (fatwa). Wasiliana na wanazuoni wenye sifa.",
+    "askQuestion": "Uliza swali...",
+    "send": "Tuma",
+    "rateLimitExceeded": "Kikomo cha kiwango kimezidiwa. Tafadhali jaribu tena baadaye.",
+    "error": "Kosa limetokea. Tafadhali jaribu tena.",
+    "enterMessage": "Tafadhali ingiza ujumbe",
+    "selectAyah": "Chagua aya ili kueleza",
+    "explainThis": "Eleza Aya Hii",
+    "explanation": "Maelezo"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "common": {
+    "close": "Fermer",
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "done": "Terminé",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "retry": "Réessayer",
+    "search": "Rechercher",
+    "settings": "Paramètres"
+  },
+  "tabs": {
+    "home": "Accueil",
+    "quran": "Coran",
+    "learn": "Apprendre",
+    "qibla": "Qibla",
+    "settings": "Paramètres"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Lever du soleil",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "nextPrayer": "Prochaine prière",
+    "timeUntil": "Temps restant",
+    "prayerTimes": "Horaires de prière",
+    "today": "Aujourd'hui",
+    "noPrayersToday": "Aucune prière programmée"
+  },
+  "location": {
+    "location": "Localisation",
+    "detectLocation": "Détecter la localisation",
+    "manualLocation": "Localisation manuelle",
+    "enterCity": "Entrez le nom de la ville",
+    "locationPermissionDenied": "Permission de localisation refusée. Veuillez entrer votre ville manuellement.",
+    "locationError": "Impossible de détecter la localisation. Veuillez réessayer ou entrer manuellement.",
+    "detecting": "Détection de la localisation..."
+  },
+  "adhan": {
+    "adhanSettings": "Paramètres Adhan",
+    "enableNotifications": "Activer les notifications",
+    "notificationsEnabled": "Notifications activées",
+    "notificationsDisabled": "Notifications désactivées",
+    "selectSound": "Sélectionner le son",
+    "silent": "Silencieux",
+    "vibrate": "Vibrer",
+    "prayerNotifications": "Notifications de prière",
+    "notificationsBefore": "Notifier avant la prière",
+    "minutes": "minutes"
+  },
+  "prayerSettings": {
+    "calculationMethod": "Méthode de calcul",
+    "asrMethod": "Calcul de l'Asr",
+    "highLatitude": "Règle haute latitude",
+    "manualAdjustments": "Ajustements manuels",
+    "methods": {
+      "MWL": "Ligue Islamique Mondiale",
+      "ISNA": "Société Islamique d'Amérique du Nord",
+      "Egypt": "Autorité Générale Égyptienne",
+      "Makkah": "Université Umm al-Qura, La Mecque",
+      "Karachi": "Université des Sciences Islamiques, Karachi"
+    },
+    "asrMethods": {
+      "Standard": "Shafi, Maliki, Hanbali",
+      "Hanafi": "Hanafi"
+    },
+    "highLatRules": {
+      "NightMiddle": "Milieu de la nuit",
+      "AngleBased": "Basé sur l'angle",
+      "OneSeventh": "Un septième de la nuit"
+    }
+  },
+  "quran": {
+    "quran": "Coran",
+    "surah": "Sourate",
+    "ayah": "Verset",
+    "juz": "Juz",
+    "page": "Page",
+    "translation": "Traduction",
+    "selectTranslation": "Sélectionner la traduction",
+    "bookmarks": "Favoris",
+    "lastRead": "Dernière lecture",
+    "continueReading": "Continuer la lecture",
+    "noBookmarks": "Aucun favori pour le moment",
+    "addBookmark": "Ajouter aux favoris",
+    "removeBookmark": "Retirer des favoris",
+    "searchQuran": "Rechercher dans le Coran",
+    "searchResults": "Résultats de recherche",
+    "noResults": "Aucun résultat trouvé"
+  },
+  "learn": {
+    "learn": "Apprendre",
+    "lessons": "Leçons",
+    "categories": "Catégories",
+    "progress": "Progrès",
+    "completed": "Terminé",
+    "quiz": "Quiz",
+    "startQuiz": "Commencer le quiz",
+    "nextQuestion": "Question suivante",
+    "submitAnswer": "Soumettre la réponse",
+    "yourScore": "Votre score",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "tryAgain": "Réessayer"
+  },
+  "qibla": {
+    "qibla": "Direction de la Qibla",
+    "direction": "Direction",
+    "calibration": "Calibration",
+    "calibrationHelp": "Déplacez votre appareil en forme de 8 pour calibrer la boussole.",
+    "bearing": "Cap vers La Mecque",
+    "degrees": "degrés",
+    "compassUnavailable": "Le capteur de boussole n'est pas disponible sur cet appareil."
+  },
+  "settings": {
+    "settings": "Paramètres",
+    "language": "Langue",
+    "selectLanguage": "Sélectionner la langue",
+    "prayerSettings": "Paramètres de prière",
+    "adhanSettings": "Paramètres Adhan",
+    "theme": "Thème",
+    "about": "À propos",
+    "creditsAndSources": "Crédits et sources",
+    "aiHelper": "Assistant IA",
+    "notifications": "Notifications"
+  },
+  "credits": {
+    "title": "Crédits et sources",
+    "quranText": "Texte du Coran",
+    "quranSource": "Texte arabe de Tanzil.net",
+    "translations": "Traductions",
+    "translationSources": "Les sources de traduction sont listées dans chaque sélection de traduction.",
+    "prayerTimes": "Calcul des horaires de prière",
+    "prayerTimesSource": "Basé sur les méthodes de calcul islamiques établies",
+    "disclaimer": "Avertissement",
+    "disclaimerText": "Cette application est fournie comme un outil pour les musulmans. Veuillez vérifier les horaires de prière avec votre mosquée locale. La fonctionnalité IA est à des fins éducatives uniquement et ne doit pas être utilisée pour des décisions religieuses (fatwas). Consultez toujours des érudits qualifiés pour des conseils religieux."
+  },
+  "ai": {
+    "aiHelper": "Assistant IA",
+    "chat": "Chat",
+    "explainAyah": "Expliquer le verset",
+    "disclaimer": "Les réponses de l'IA sont à des fins éducatives uniquement. Pas pour des décisions religieuses (fatwas). Consultez des érudits qualifiés.",
+    "askQuestion": "Posez une question...",
+    "send": "Envoyer",
+    "rateLimitExceeded": "Limite de taux dépassée. Veuillez réessayer plus tard.",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "enterMessage": "Veuillez entrer un message",
+    "selectAyah": "Sélectionnez un verset à expliquer",
+    "explainThis": "Expliquer ce verset",
+    "explanation": "Explication"
+  }
+}

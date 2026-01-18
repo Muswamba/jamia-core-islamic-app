@@ -1,0 +1,132 @@
+{
+  "app": {
+    "name": "Adhan & Prayer Times"
+  },
+  "tabs": {
+    "home": "Home",
+    "quran": "Quran",
+    "learn": "Learn",
+    "qibla": "Qibla",
+    "settings": "Settings"
+  },
+  "home": {
+    "nextPrayer": "Next Prayer",
+    "timeRemaining": "Time Remaining"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Sunrise",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "prayerTimes": "Prayer Times",
+    "today": "Today's Prayers",
+    "nextPrayer": "Next Prayer"
+  },
+  "quran": {
+    "quran": "Quran",
+    "surah": "Surah",
+    "juz": "Juz",
+    "page": "Page",
+    "search": "Search",
+    "translation": "Translation",
+    "searchQuran": "Search Quran",
+    "lastRead": "Last Read",
+    "ayah": "ayah"
+  },
+  "learn": {
+    "learn": "Learn",
+    "lessons": "Lessons",
+    "categories": "Categories",
+    "completed": "completed",
+    "quiz": "Quiz",
+    "startQuiz": "Start Quiz",
+    "yourScore": "Your Score",
+    "nextQuestion": "Next Question",
+    "submitAnswer": "Submit Answer"
+  },
+  "qibla": {
+    "qibla": "Qibla Direction",
+    "direction": "Direction",
+    "compass": "Compass",
+    "compassUnavailable": "Compass sensor not available on this device. Use the bearing below to find Qibla direction.",
+    "bearing": "Bearing",
+    "aligned": "Aligned",
+    "calibration": "Calibration Tip",
+    "calibrationHelp": "Move your device in a figure-8 pattern to calibrate the compass for better accuracy."
+  },
+  "settings": {
+    "title": "Settings",
+    "settings": "Settings",
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "themeSystem": "System",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "fontSize": "Font Size",
+    "fontSizeSystem": "System",
+    "fontSizeSmall": "Small",
+    "fontSizeMedium": "Medium",
+    "fontSizeLarge": "Large",
+    "language": "Language",
+    "selectLanguage": "Select Language",
+    "prayerCalculation": "Prayer Calculation",
+    "calculationMethod": "Calculation Method",
+    "asrMethod": "Asr Method",
+    "highLatitudeRule": "High Latitude Rule",
+    "timeAdjustments": "Time Adjustments",
+    "notifications": "Notifications",
+    "enableNotifications": "Enable Notifications",
+    "prayerNotifications": "Prayer Notifications",
+    "notificationSound": "Notification Sound",
+    "adhanFull": "Full Adhan",
+    "adhanShort": "Short Adhan",
+    "beep": "Beep",
+    "silent": "Silent",
+    "testSound": "Test Sound",
+    "enableForPrayers": "Enable for Prayers",
+    "notificationsScheduled": "Notifications scheduled for today",
+    "notificationsDisabled": "Notifications disabled",
+    "credits": "Credits & Sources",
+    "disclaimer": "Disclaimer"
+  },
+  "languageNames": {
+    "en": "English",
+    "fr": "Français",
+    "sw": "Kiswahili",
+    "ar": "العربية"
+  },
+  "location": {
+    "locationPermissionDenied": "Location permission is required to calculate accurate prayer times",
+    "detectLocation": "Enable Location",
+    "locationError": "Unable to get your location. Please check your settings and try again."
+  },
+  "ai": {
+    "aiHelper": "AI Helper",
+    "askQuestion": "Ask a question about Islam...",
+    "send": "Send",
+    "disclaimer": "AI responses are for educational purposes only. Not a substitute for qualified Islamic scholars."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "timeout": "Request timed out. Please try again.",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "back": "Back",
+    "done": "Done"
+  },
+  "credits": {
+    "title": "Credits & Sources",
+    "quranText": "Quran Arabic Text",
+    "quranSource": "Arabic text provided by Tanzil.net",
+    "translations": "Quran Translations",
+    "translationSources": "Translation sources are listed for each translation",
+    "prayerTimes": "Prayer Times Calculation",
+    "prayerTimesSource": "Based on established Islamic calculation methods",
+    "disclaimerText": "This app is provided as a tool for Muslims. Please verify prayer times with your local mosque. The AI feature is for educational purposes only and should not be used for religious rulings (fatwas). Always consult qualified scholars for religious guidance."
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "name": "Adhan na Nyakati za Sala"
+  },
+  "tabs": {
+    "home": "Nyumbani",
+    "quran": "Qur'an",
+    "learn": "Jifunze",
+    "qibla": "Qibla",
+    "settings": "Mipangilio"
+  },
+  "home": {
+    "nextPrayer": "Sala Inayofuata",
+    "timeRemaining": "Muda Uliosalia"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Kuchomoza Jua",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "prayerTimes": "Nyakati za Sala",
+    "today": "Sala za Leo",
+    "nextPrayer": "Sala Inayofuata"
+  },
+  "quran": {
+    "quran": "Qur'an",
+    "surah": "Sura",
+    "juz": "Juz",
+    "page": "Ukurasa",
+    "search": "Tafuta",
+    "translation": "Tafsiri",
+    "searchQuran": "Tafuta Qur'an",
+    "lastRead": "Uliyosoma Mwisho",
+    "ayah": "aya"
+  },
+  "learn": {
+    "learn": "Jifunze",
+    "lessons": "Masomo",
+    "categories": "Kategoria",
+    "completed": "imekamilika",
+    "quiz": "Jaribio",
+    "startQuiz": "Anza Jaribio",
+    "yourScore": "Alama Yako",
+    "nextQuestion": "Swali Linalofuata",
+    "submitAnswer": "Wasilisha Jibu"
+  },
+  "qibla": {
+    "qibla": "Mwelekeo wa Qibla",
+    "direction": "Mwelekeo",
+    "compass": "Dira",
+    "compassUnavailable": "Dira haipatikani kwenye kifaa hiki. Tumia mwelekeo hapa chini kupata mwelekeo wa Qibla.",
+    "bearing": "Mwelekeo",
+    "aligned": "Imefanana na Qibla",
+    "calibration": "Vidokezo vya Kusawazisha",
+    "calibrationHelp": "Sogeza kifaa chako kwa mfumo wa namba 8 kusawazisha dira kwa usahihi bora zaidi."
+  },
+  "settings": {
+    "title": "Mipangilio",
+    "settings": "Mipangilio",
+    "appearance": "Muonekano",
+    "theme": "Mandhari",
+    "themeSystem": "Mfumo",
+    "themeLight": "Mwanga",
+    "themeDark": "Giza",
+    "fontSize": "Ukubwa wa Herufi",
+    "fontSizeSystem": "Mfumo",
+    "fontSizeSmall": "Ndogo",
+    "fontSizeMedium": "Wastani",
+    "fontSizeLarge": "Kubwa",
+    "language": "Lugha",
+    "selectLanguage": "Chagua Lugha",
+    "prayerCalculation": "Hesabu ya Sala",
+    "calculationMethod": "Njia ya Hesabu",
+    "asrMethod": "Njia ya Asr",
+    "highLatitudeRule": "Kanuni ya Latitudo Juu",
+    "timeAdjustments": "Marekebisho ya Muda",
+    "notifications": "Arifa",
+    "enableNotifications": "Washa Arifa",
+    "prayerNotifications": "Arifa za Sala",
+    "notificationSound": "Sauti ya Arifa",
+    "adhanFull": "Adhan Kamili",
+    "adhanShort": "Adhan Fupi",
+    "beep": "Bip",
+    "silent": "Kimya",
+    "testSound": "Jaribu Sauti",
+    "enableForPrayers": "Washa kwa Sala",
+    "notificationsScheduled": "Arifa zimepangwa kwa leo",
+    "notificationsDisabled": "Arifa zimezimwa",
+    "credits": "Mikopo na Vyanzo",
+    "disclaimer": "Onyo"
+  },
+  "languageNames": {
+    "en": "Kiingereza",
+    "fr": "Kifaransa",
+    "sw": "Kiswahili",
+    "ar": "Kiarabu"
+  },
+  "location": {
+    "locationPermissionDenied": "Ruhusa ya eneo inahitajika kuhesabu nyakati sahihi za sala",
+    "detectLocation": "Washa Eneo",
+    "locationError": "Imeshindwa kupata eneo lako. Tafadhali angalia mipangilio yako na ujaribu tena."
+  },
+  "ai": {
+    "aiHelper": "Msaidizi wa AI",
+    "askQuestion": "Uliza swali kuhusu Uislamu...",
+    "send": "Tuma",
+    "disclaimer": "Majibu ya AI ni kwa madhumuni ya kielimu pekee. Sio badala ya wanazuoni wa Kiislamu wenye sifa."
+  },
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Hitilafu",
+    "timeout": "Ombaji imeisha muda. Tafadhali jaribu tena.",
+    "retry": "Jaribu Tena",
+    "cancel": "Ghairi",
+    "save": "Hifadhi",
+    "close": "Funga",
+    "back": "Nyuma",
+    "done": "Imekamilika"
+  },
+  "credits": {
+    "title": "Mikopo na Vyanzo",
+    "quranText": "Maandishi ya Kiarabu ya Qur'an",
+    "quranSource": "Maandishi ya Kiarabu yametolewa na Tanzil.net",
+    "translations": "Tafsiri za Qur'an",
+    "translationSources": "Vyanzo vya tafsiri vimeorodheshwa kwa kila tafsiri",
+    "prayerTimes": "Hesabu ya Nyakati za Sala",
+    "prayerTimesSource": "Kulingana na njia za hesabu za Kiislamu zilizowekwa",
+    "disclaimerText": "Programu hii imetolewa kama chombo kwa Waislamu. Tafadhali thibitisha nyakati za sala na msikiti wako wa karibu. Kipengele cha AI ni kwa madhumuni ya kielimu pekee na haipaswi kutumika kwa maamuzi ya kidini (fatwas). Daima wasiliana na wanazuoni wenye sifa kwa mwongozo wa kidini."
+  }
+}

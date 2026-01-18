@@ -1,0 +1,132 @@
+{
+  "app": {
+    "name": "Adhan et Horaires de Prière"
+  },
+  "tabs": {
+    "home": "Accueil",
+    "quran": "Coran",
+    "learn": "Apprendre",
+    "qibla": "Qibla",
+    "settings": "Paramètres"
+  },
+  "home": {
+    "nextPrayer": "Prochaine prière",
+    "timeRemaining": "Temps restant"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Lever du soleil",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "prayerTimes": "Horaires de prière",
+    "today": "Prières d'aujourd'hui",
+    "nextPrayer": "Prochaine prière"
+  },
+  "quran": {
+    "quran": "Coran",
+    "surah": "Sourate",
+    "juz": "Juz",
+    "page": "Page",
+    "search": "Rechercher",
+    "translation": "Traduction",
+    "searchQuran": "Rechercher dans le Coran",
+    "lastRead": "Dernière lecture",
+    "ayah": "verset"
+  },
+  "learn": {
+    "learn": "Apprendre",
+    "lessons": "Leçons",
+    "categories": "Catégories",
+    "completed": "terminé",
+    "quiz": "Quiz",
+    "startQuiz": "Commencer le quiz",
+    "yourScore": "Votre score",
+    "nextQuestion": "Question suivante",
+    "submitAnswer": "Soumettre la réponse"
+  },
+  "qibla": {
+    "qibla": "Direction de la Qibla",
+    "direction": "Direction",
+    "compass": "Boussole",
+    "compassUnavailable": "Capteur de boussole non disponible sur cet appareil. Utilisez le relèvement ci-dessous pour trouver la direction de la Qibla.",
+    "bearing": "Relèvement",
+    "aligned": "Aligné",
+    "calibration": "Conseil de calibrage",
+    "calibrationHelp": "Déplacez votre appareil en formant un 8 pour calibrer la boussole et améliorer la précision."
+  },
+  "settings": {
+    "title": "Paramètres",
+    "settings": "Paramètres",
+    "appearance": "Apparence",
+    "theme": "Thème",
+    "themeSystem": "Système",
+    "themeLight": "Clair",
+    "themeDark": "Sombre",
+    "fontSize": "Taille de police",
+    "fontSizeSystem": "Système",
+    "fontSizeSmall": "Petit",
+    "fontSizeMedium": "Moyen",
+    "fontSizeLarge": "Grand",
+    "language": "Langue",
+    "selectLanguage": "Sélectionner la langue",
+    "prayerCalculation": "Calcul de prière",
+    "calculationMethod": "Méthode de calcul",
+    "asrMethod": "Méthode Asr",
+    "highLatitudeRule": "Règle de haute latitude",
+    "timeAdjustments": "Ajustements de temps",
+    "notifications": "Notifications",
+    "enableNotifications": "Activer les notifications",
+    "prayerNotifications": "Notifications de prière",
+    "notificationSound": "Son de notification",
+    "adhanFull": "Adhan complet",
+    "adhanShort": "Adhan court",
+    "beep": "Bip",
+    "silent": "Silencieux",
+    "testSound": "Tester le son",
+    "enableForPrayers": "Activer pour les prières",
+    "notificationsScheduled": "Notifications programmées pour aujourd'hui",
+    "notificationsDisabled": "Notifications désactivées",
+    "credits": "Crédits et sources",
+    "disclaimer": "Avertissement"
+  },
+  "languageNames": {
+    "en": "Anglais",
+    "fr": "Français",
+    "sw": "Kiswahili",
+    "ar": "العربية"
+  },
+  "location": {
+    "locationPermissionDenied": "L'autorisation de localisation est requise pour calculer des horaires de prière précis",
+    "detectLocation": "Activer la localisation",
+    "locationError": "Impossible d'obtenir votre position. Veuillez vérifier vos paramètres et réessayer."
+  },
+  "ai": {
+    "aiHelper": "Assistant IA",
+    "askQuestion": "Poser une question sur l'Islam...",
+    "send": "Envoyer",
+    "disclaimer": "Les réponses de l'IA sont à des fins éducatives uniquement. Pas un substitut aux érudits islamiques qualifiés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "timeout": "La requête a expiré. Veuillez réessayer.",
+    "retry": "Réessayer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "close": "Fermer",
+    "back": "Retour",
+    "done": "Terminé"
+  },
+  "credits": {
+    "title": "Crédits et sources",
+    "quranText": "Texte arabe du Coran",
+    "quranSource": "Texte arabe fourni par Tanzil.net",
+    "translations": "Traductions du Coran",
+    "translationSources": "Les sources de traduction sont listées pour chaque traduction",
+    "prayerTimes": "Calcul des horaires de prière",
+    "prayerTimesSource": "Basé sur des méthodes de calcul islamiques établies",
+    "disclaimerText": "Cette application est fournie comme un outil pour les musulmans. Veuillez vérifier les horaires de prière avec votre mosquée locale. La fonctionnalité IA est à des fins éducatives uniquement et ne doit pas être utilisée pour des décisions religieuses (fatwas). Consultez toujours des érudits qualifiés pour des conseils religieux."
+  }
+}
